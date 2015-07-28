@@ -1,0 +1,10 @@
+{
+  "name": "Cursed-JP",
+  "version": "0.0.1",
+  "title": "Cursed Jet Pack",
+  "author": "L0771",
+  "contact": "http://www.factorioforums.com/forum/ucp.php?i=pm&mode=compose&u=923",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=7189#p56373",
+  "dependencies": ["base"],
+  "description": "Just a jet pack...."
+}
