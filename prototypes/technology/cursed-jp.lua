@@ -1,6 +1,7 @@
 
 local obj = util.table.deepcopy(data.raw["technology"]["basic-exoskeleton-equipment"])
 obj.name = "cursed-jp"
+obj.icon = "__Cursed-JP__/graphics/icons/cursed-jp.png"
 obj.effects = {}
 obj.effects[3] = { type = "unlock-recipe", recipe = "cursed-jp" }
 obj.unit.time = obj.unit.time * 2

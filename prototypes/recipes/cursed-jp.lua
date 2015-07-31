@@ -4,6 +4,7 @@ obj.name = "cursed-jp"
 for _,ing in ipairs(obj.ingredients) do
 	ing[2] = ing[2] * 2
 end
+obj.icon = "__Cursed-JP__/graphics/icons/cursed-jp.png"
 obj.results = {}
 obj.results[1] = {}
 obj.results[1].type = "item"
